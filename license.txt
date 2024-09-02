@@ -1,0 +1,5 @@
+The Noghal Game Design Documents, including game design, story, world design, Noghal fonts, and other conceptual elements, are released into the public domain or under a CC0 license where public domain dedication is not possible. You are free to use, modify, and distribute these materials.
+
+However, actual images and graphical assets (e.g., map pictures, character illustrations) are not freely available. Only the general design (e.g., map layout with labeling, interface design) is covered by the public domain or CC0 license.
+
+This material is provided "as is," without warranty of any kind.
