@@ -15,7 +15,7 @@ But dark shadows lurk on the horizon of destiny! Sinister demonic powers are ret
 
 The Noghal universe was mainly developed between 1997 and 2003.
 We were a crew of 4 people (+ 2 * 0.25 helpers), who tried to develop a really epic RPG.
-At first *Mysterious Discoveries*, then we reworked it to *Forgotten Legends*
+At first *Mysterious Discoveries*, then we reworked it to *Forgotten Legends*.
 But due to financial reasons, the team was abandoned in 2004.
 I continued Noghal as a hobby project.
 We never made it.
